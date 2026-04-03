@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:food.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:food.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:defaults.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:defaults.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1EB12D3-84AE-49F9-ABDC-1A37F621ADFC}|raylibSnake.vcxproj|solutionrelative:snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T08:48:45.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "defaults.h",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.h",
+              "RelativeDocumentMoniker": "defaults.h",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.h",
+              "RelativeToolTip": "defaults.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-12T12:43:42.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "defaults.cpp",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.cpp",
+              "RelativeDocumentMoniker": "defaults.cpp",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\defaults.cpp",
+              "RelativeToolTip": "defaults.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T12:43:39.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "snake.h",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.h",
+              "RelativeDocumentMoniker": "snake.h",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.h",
+              "RelativeToolTip": "snake.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-12T09:29:20.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "snake.cpp",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.cpp",
+              "RelativeDocumentMoniker": "snake.cpp",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\snake.cpp",
+              "RelativeToolTip": "snake.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T09:26:23.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "food.h",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.h",
+              "RelativeDocumentMoniker": "food.h",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.h",
+              "RelativeToolTip": "food.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-12T09:07:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "food.cpp",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.cpp",
+              "RelativeDocumentMoniker": "food.cpp",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\food.cpp",
+              "RelativeToolTip": "food.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T09:13:18.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-12T10:05:01.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "D:\\Projects C\u002B\u002B\\VisualStudioProject\\raylibSnake\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T10:10:41.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

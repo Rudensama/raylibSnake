@@ -1,0 +1,8 @@
+﻿  food.cpp
+D:\Projects C++\VisualStudioProject\raylibSnake\food.cpp(18,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects C++\VisualStudioProject\raylibSnake\food.cpp(18,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects C++\VisualStudioProject\raylibSnake\food.cpp(23,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects C++\VisualStudioProject\raylibSnake\food.cpp(24,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  raylibSnake.vcxproj -> D:\Projects C++\VisualStudioProject\raylibSnake\x64\Debug\raylibSnake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

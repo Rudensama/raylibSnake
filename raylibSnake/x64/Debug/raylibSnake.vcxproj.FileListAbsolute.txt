@@ -1,0 +1,3 @@
+D:\Projects C++\VisualStudioProject\raylibSnake\x64\Debug\raylib.dll
+D:\Projects C++\VisualStudioProject\raylibSnake\x64\Debug\glfw3.dll
+D:\Projects C++\VisualStudioProject\raylibSnake\raylibSnake\x64\Debug\raylibSn.EB3C183F.Up2Date

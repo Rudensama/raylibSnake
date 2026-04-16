@@ -1,20 +1,21 @@
-Raylib Tetris
-A small Tetris clone written in C++ using raylib.
+# raylib Snake
 
-Overview
-Simple single-player Tetris implemented with raylib. Uses the bitmap font fonts/pixeloid.mono.ttf and assets included in the repo.
+Minimal C++ Snake game using `raylib`.
 
-Requirements
-•	Windows (development tested in Visual Studio)
-•	Visual Studio 2022/2026 or another C++ toolchain
-•	raylib library installed and available to the project (or install via vcpkg)
+Build
+- Open `raylibSnake.vcxproj` in Visual Studio or build with your toolchain and link `raylib`.
+- (Optional) Install via vcpkg: `vcpkg install raylib` then `vcpkg integrate install`.
 
-Build & Run (Visual Studio)
-1.	Ensure raylib is installed and Visual Studio knows the include/lib paths (or use vcpkg and vcpkg integrate install).
-2.	Open the project file raylibTetris.vcxproj.filters or the solution in Visual Studio.
-3.	Build and run.
+Run
+- Ensure `graphics/food.png` and `sounds/eat.mp3`, `sounds/wall.mp3` are available in the executable working directory.
 
-Alternatively, compile with your preferred toolchain and link against raylib.
+Controls
+- Arrow keys: move the snake.
+- Press any key to restart after game over.
 
-<img width="500" height="611" alt="image" src="https://github.com/user-attachments/assets/e74eab12-01d8-4954-89e4-fba4e9bf2443" />
-<img width="497" height="614" alt="image" src="https://github.com/user-attachments/assets/7d3d905c-4dd0-4845-98e9-b056a4d60ef3" />
+Assets
+- `graphics/food.png`
+- `sounds/eat.mp3`, `sounds/wall.mp3`
+
+<img width="902" height="902" alt="image" src="https://github.com/user-attachments/assets/a183d5bf-7467-46f6-b1b7-ba98954e80d2" />
+<img width="901" height="898" alt="image" src="https://github.com/user-attachments/assets/f3c8a743-36da-48e1-a2b6-f80b8963cf0b" />
